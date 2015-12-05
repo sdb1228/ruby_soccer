@@ -1,6 +1,6 @@
 # encoding: utf-8
 #!/usr/bin/env
-# Needed channel C02MG2Z7L - PANDA IHC
+# Needed channel CHANNEL - PANDA IHC
 #testing channel CHANNEL
 require 'net/http'
 require "open-uri"
